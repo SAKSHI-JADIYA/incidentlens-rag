@@ -5,3 +5,9 @@ __pycache__/
 data/*
 !data/.gitkeep
 .pytest_cache/
+
+<<<<<<< HEAD
+your local rules
+=======
+rules from GitHub
+>>>>>>> origin/main
