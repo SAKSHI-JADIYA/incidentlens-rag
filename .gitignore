@@ -1,13 +1,9 @@
+
 .venv/
+.venv313/
 __pycache__/
 *.py[cod]
 .env
 data/*
 !data/.gitkeep
 .pytest_cache/
-
-<<<<<<< HEAD
-your local rules
-=======
-rules from GitHub
->>>>>>> origin/main
